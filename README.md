@@ -17,7 +17,7 @@ ReconBot is a bash script designed to automate the initial stages of penetration
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/reconbot.git
+    git clone https://github.com/b3schwa/reconbot.git
     cd reconbot
     ```
 
