@@ -40,3 +40,7 @@ ReconBot is a bash script designed to automate the initial stages of penetration
 - `ffuf`
 - `tmux` (optional for parallel task execution)
 
+## Disclaimer
+
+**Disclaimer:**
+This script is intended for educational purposes and authorized penetration testing only. Unauthorized use of this script to attack targets without prior mutual consent is illegal. The author is not responsible for any misuse of this tool.
